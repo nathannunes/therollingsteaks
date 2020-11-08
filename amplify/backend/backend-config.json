@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "therollingsteaksbc9c19d2": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
